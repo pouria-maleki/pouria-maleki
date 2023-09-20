@@ -3,7 +3,6 @@
 
   <h1>Pouria Maleki</h1>
   <p>Electrical Engineering (Control Sys.) </p>
-  <p>ia am a electrical engineer</p>
   <hr>
   <p>contact me: </p>
   <a href="https://www.linkedin.com/in/pouria-maleki/">Linkedin</a>
