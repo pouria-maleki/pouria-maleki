@@ -7,6 +7,7 @@
   <p>contact me: </p>
   <a href="https://www.linkedin.com/in/pouria-maleki/">Linkedin</a>
   <p>interests:</p>
-  <img src="https://github.com/pouria-maleki/pouria-maleki/assets/61584820/484b0433-0a9f-4e5d-8aa7-f4baf8bff2e9" style="width:200px; border-radius: 50px">
+  <img src="https://github.com/pouria-maleki/pouria-maleki/assets/61584820/484b0433-0a9f-4e5d-8aa7-f4baf8bff2e9" style="width:200px">
+  <img src="https://github.com/pouria-maleki/pouria-maleki/assets/61584820/505fc021-044d-4315-9082-264fa929b1b0" style="width:200px">
 
 </div>
