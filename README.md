@@ -1,5 +1,5 @@
 <div align="center">
-  ![image](https://github.com/pouria-maleki/pouria-maleki/assets/61584820/c620a10d-646c-43f4-8084-ac86191abfff)
+  <img src="https://github.com/pouria-maleki/pouria-maleki/assets/61584820/c620a10d-646c-43f4-8084-ac86191abfff">
   <h1>Hi There</h1>
   <p>my name is <strong>Pouria Maleki</strong></p>
   <p>ia am a electrical engineer</p>
