@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/pouria-maleki/pouria-maleki/assets/61584820/f0bb8541-7228-467e-a521-dc6a8cb8165b">
+  <img src="https://github.com/pouria-maleki/pouria-maleki/assets/61584820/75f33538-0fa9-42d4-9c5b-34055789b614">
+
   <h1>Hi There</h1>
   <p>my name is <strong>Pouria Maleki</strong></p>
   <p>ia am a electrical engineer</p>
