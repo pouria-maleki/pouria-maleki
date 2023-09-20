@@ -2,3 +2,5 @@
 <h1 align="center">Hi There</h1>
 <p align="center">my name is <strong>Pouria Maleki</strong></p>
 <p align="center">ia am a electrical engineer</p>
+<p>contact me: </p>
+<a href="https://www.linkedin.com/in/pouria-maleki/">Linkedin</a>
