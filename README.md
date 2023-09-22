@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/pouria-maleki/pouria-maleki/assets/61584820/18425f5d-1e44-4fba-a25f-e14593767301">
+  <img src="https://github.com/pouria-maleki/pouria-maleki/assets/61584820/cbea2a14-fa16-4c15-b519-d20d5d9d36ec">
+
 
   <h1>Pouria Maleki</h1>
   <p>Electrical Engineering (Control Sys.) </p>
